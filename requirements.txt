@@ -1,0 +1,7 @@
+python-socketio
+argparse
+colorama
+subprocess.run
+python-time
+queuelib
+threaded
