@@ -2,7 +2,7 @@
 Fastest Port scanner like thunder Ability to scan 65000 port in 8 sec with great accuracy.
 
 # Installation step 1
-git clone https://github.com/exploit40/webseaz
+git clone https://github.com/vimalsingh1812/webseaz
 # 2nd step
 cd webseaz
 # 3rd step
